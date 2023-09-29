@@ -1,0 +1,59 @@
+#set {
+    background-image: url("https://w0.peakpx.com/wallpaper/740/955/HD-wallpaper-tour-across-world-attractions-culture-travel-visit.jpg");
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 10px;
+    color: white;
+  
+    flex-grow: 8;
+  }
+  #set2 {
+    background-image: url("https://w0.peakpx.com/wallpaper/143/320/HD-wallpaper-small-wild-boars-wildlife-funny-animals-little-pigs-forest-wild-boars.jpg");
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 10px;
+    color: white;
+    flex-grow: 1;
+  }
+  #set3 {
+    background-image: url("https://w0.peakpx.com/wallpaper/88/1011/HD-wallpaper-boat-on-the-beach-sunny-day-beach-landscape.jpg");
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 10px;
+  
+    color: white;
+    flex-grow: 1;
+  }
+  #set4 {
+    background-image: url("https://w0.peakpx.com/wallpaper/667/981/HD-wallpaper-winter-city-digital-art.jpg");
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 10px;
+    color: white;
+    flex-grow: 1;
+  }
+  #set5 {
+    background-image: url("https://w0.peakpx.com/wallpaper/626/924/HD-wallpaper-above-the-mountain-clouds.jpg");
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 10px;
+  
+    color: white;
+    flex-grow: 1;
+  }
+  #box {
+    display: flex;
+    margin: 5%;
+    height: 450px;
+    align-items: stretch;
+  }
+  body {
+    font-size: large;
+    font-weight: 600;
+  }
+  p {
+    position: absolute;
+    bottom: 170px;
+    margin-left: 25px;
+  }
+  
